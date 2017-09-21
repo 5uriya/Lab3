@@ -8,7 +8,7 @@
 #' @usage data(wiki_graph)
 #'
 #' @format An object
-#'
+#' 
 #' @keywords datasets
 #'
 #' @references \href{http://www.r-tutor.com/r-introduction/data-frame}{R tutorial}
