@@ -1,0 +1,10 @@
+Package: Lab3
+Type: Package
+Title: Euclidean and Dijkstra
+Version: 1.0
+Date: 2017-09-21
+Author: Balaji Ramkumar and Amish Satish 
+Maintainer: <balaji512ramkumar@gmail.com>
+Description: Performs the Gcd of two numbers using Euclidean algorithm and also finds the shortest distance between nodes using Dijkstra's method.
+RoxygenNote: 6.0.1.9000
+License: No license
