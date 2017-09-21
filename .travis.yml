@@ -1,4 +1,2 @@
-before_install:
- - cd subdirectory
 language: r 
 cache: packages
