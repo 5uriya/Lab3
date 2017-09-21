@@ -38,4 +38,3 @@ euclidean <- function(dividend,divisor)
   
  return(temporary_variable)
 }
-euclidean(12,30)
