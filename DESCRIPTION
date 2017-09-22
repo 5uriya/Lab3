@@ -8,3 +8,5 @@ Maintainer: <balaji512ramkumar@gmail.com>
 Description: Performs the Gcd of two numbers using Euclidean algorithm and also finds the shortest distance between nodes using Dijkstra's method.
 RoxygenNote: 6.0.1.9000
 License: GPL-2
+Depends: R (>= 2.1.0)
+

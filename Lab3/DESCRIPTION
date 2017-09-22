@@ -9,3 +9,5 @@ Description: Performs the Gcd of two numbers using Euclidean algorithm and also 
 RoxygenNote: 6.0.1.9000
 License: GPL-2
 Suggests: testthat
+Depends: R (>= 2.1.0)
+
